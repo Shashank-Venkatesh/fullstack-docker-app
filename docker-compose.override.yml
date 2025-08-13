@@ -1,0 +1,5 @@
+x-develop:
+  watch:
+    - path: .
+      action: sync
+      target: /app
